@@ -3,9 +3,12 @@ body {
     font-family: 'Roboto', sans-serif;
     background-color: #cbaf87;
 }
-header {
+#header {
+    margin: -2% -2% 5% -2%;
+    padding: 10px 0;
     text-align: center;
     background-color: #7e8a97;
+
 }
 .navigation {
     list-style-type: none;
