@@ -1,0 +1,36 @@
+body {
+    color: #30475e;
+    font-family: 'Roboto', sans-serif;
+    background-color: #cbaf87;
+}
+header {
+    text-align: center;
+    background-color: #7e8a97;
+}
+.navigation {
+    list-style-type: none;
+}
+.navigation a:link{
+    color: rgb(31, 183, 221)
+}
+.navigation a:visited {
+    color: silver;
+}
+h2 {
+    text-align: center;
+}
+main {
+    background-color: #e7dec8;
+}
+.breakfast > li {
+    color: teal;
+}
+img {
+    float: left;
+}
+img {
+    margin-right: 10px;
+}
+.clear {
+    clear: left;
+}
