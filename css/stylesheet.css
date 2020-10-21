@@ -4,11 +4,12 @@ body {
     background-color: #cbaf87;
 }
 #header {
-    margin: -2% -2% 5% -2%;
-    padding: 10px 0;
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    width: 100%;
     text-align: center;
     background-color: #7e8a97;
-
 }
 .navigation {
     list-style-type: none;
@@ -22,8 +23,9 @@ body {
 h2 {
     text-align: center;
 }
-main {
+#main {
     background-color: #e7dec8;
+    margin-top: 200px;
 }
 .breakfast > li {
     color: teal;
